@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Zulkifly Al Firdausy
 
-I'm a passionate **Flutter Developer** with 2+ years of experience building responsive, dynamic mobile applications for Android and iOS. I specialize in implementing clean UI, ensuring seamless UX flows, and integrating robust APIs. I love turning ideas into functional, user-friendly apps.
+I'm a passionate **Flutter Developer** with 3+ years of experience building responsive, dynamic mobile applications for Android and iOS. I specialize in implementing clean UI, ensuring seamless UX flows, and integrating robust APIs. I love turning ideas into functional, user-friendly apps.
 
 ---
 
